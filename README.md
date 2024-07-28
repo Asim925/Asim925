@@ -34,9 +34,6 @@ Beyond coding, I'm always looking to collaborate with like-minded individuals an
      <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript%20-%23F7DF1E.svg?logo=typescript&logoColor=black">
    </a>
   
-</p>
-<p align="left"> 
-  
   &emsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
      <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=white">
