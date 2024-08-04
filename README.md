@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi , I'm M.Asim Nazeer <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Pre+Engineering+Student;front-End+Web+Developer;Software%20Engineer%20Intern;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Pre+Engineering+Student;front-End+Web+Developer;Software%20Engineer%20Intern;Always%20learning%20new%20things&center=true&width=500&height=50">
 </p>
 <hr/>
 <h4 align="center" >🚀 Hey there! I'm Muhammad Asim Nazeer, on a mission to conquer the digital world as a future front-end developer! 💻 With HTML,
@@ -29,47 +29,33 @@ Beyond coding, I'm always looking to collaborate with like-minded individuals an
 
 <p align="left"> 
   
-  &emsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/TypeScript" target="_blank"> 
      <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript%20-%23F7DF1E.svg?logo=typescript&logoColor=black">
-   </a>
   
   &emsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=white">
-   </a>
+     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black">
   
 </p>
 
 ### 👉 Frontend Development
 <p align="left"> 
   &emsp; 
-  <a href="https://www.w3.org/html/" target="_blank"> 
     <img alt="HTML" src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?logo=html5&logoColor=white">
-  </a>   
   &emsp;
-  <a href="https://www.w3schools.com/css/" target="_blank">
     <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white">
-  </a> 
   &emsp;
-  <a href="https://getbootstrap.com" target="_blank"> 
     <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=black"/>
-  </a>
   &emsp;
-  <a href="https://chakra-ui.com" target="_blank">
     <img alt="Chakra UI" src="https://img.shields.io/badge/Chakra%20UI-%2334D5E0.svg?style=flat&logo=chakra-ui&logoColor=white"/>
-  </a>
   &emsp;
-  <a href="https://reactjs.org/" target="_blank">
     <img alt="React.js" src="https://img.shields.io/badge/React.js-%23282C34.svg?style=flat&logo=react&logoColor=61DAFB"/>
-  </a>
 </p>
 
 
 ### 👉 Databases & Cloud Hosting
 <p align="left">
   &emsp;
-  <a href="https://www.github.com"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=flat&logo=github&logoColor=white"></a>
+  <a href="https://www.github.com"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=flat&logo=github&logoColor=white">
   &emsp;
   <a href="https://vercel.com/"><img alt="Vercel" src="https://img.shields.io/badge/Vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white"></a>
 </p>
@@ -79,11 +65,11 @@ Beyond coding, I'm always looking to collaborate with like-minded individuals an
  
 <p>
   &emsp;
-    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a>
+   <img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white">
   &emsp;
-    <a href="#"><img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black"></a>
+    <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black">
   &emsp;
-    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
+    <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white">
  
 </p>
 
@@ -96,9 +82,8 @@ Beyond coding, I'm always looking to collaborate with like-minded individuals an
   <summary><b>💻 GitHub Profile Stats</b></summary>
   <br/>
   <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats">
+    
   <img alt="Asim925's Github Stats" src="https://github-readme-stats.vercel.app/api?username=asim925&show_icons=true&count_private=true&theme=algolia" height="192px"/>
-</a>
 
 <br/>
   &nbsp;
@@ -113,9 +98,8 @@ Beyond coding, I'm always looking to collaborate with like-minded individuals an
 <details>
   <summary><b>🏆 Achievements and Trophies</b></summary>
   <br/>
-<a href="https://github.com/ryo-ma/github-profile-trophy">
+
   <img src="https://github-profile-trophy.vercel.app/?username=asim925&theme=algolia" alt="Asim925's GitHub Trophies" />
-</a>
 
 
   <br/>
