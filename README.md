@@ -19,10 +19,6 @@ Beyond coding, I'm always looking to collaborate with like-minded individuals an
 <p align="center"><img src="https://komarev.com/ghpvc/?username=asim925&label=Profile%20views&color=0e75b6&style=plastic" alt="views">
  </p>
 
-## 🔥 Streak Stats
-<p align="center"><img src='https://github-readme-streak-stats.herokuapp.com/?user=asim925&theme=radical' alt="streaks"  /></p>
-
-
 ## 🛠️ My Skills
 
 ### 👉 Programming languages
@@ -74,6 +70,11 @@ Beyond coding, I'm always looking to collaborate with like-minded individuals an
 </p>
 
 <br/>
+
+## 🔥 Streak Stats
+<p align="center"><img src='https://github-readme-streak-stats.herokuapp.com/?user=asim925&theme=radical' alt="streaks"  /></p>
+
+
 
 ## 📊 Github Stats (Expand to View) 
 
