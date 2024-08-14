@@ -19,55 +19,10 @@ Beyond coding, I'm always looking to collaborate with like-minded individuals an
 <p align="center"><img src="https://komarev.com/ghpvc/?username=asim925&label=Profile%20views&color=0e75b6&style=plastic" alt="views">
  </p>
 
-## 🛠️ My Skills
+## 🛠️ Technologies
 
-### 👉 Programming languages
+<p><img src='https://skillicons.dev/icons?i=html,css,js,ts,react,cpp,nextjs,vite,nodejs,redux,npm,materialui,tailwind,bootstrap,prisma,vscode,git,github,gitlab,linux,stackoverflow,twitter,instagram,linkedin&theme=dark&perline=15'/></p>
 
-<p align="left"> 
-  
-  <a href="https://developer.mozilla.org/en-US/docs/Web/TypeScript" target="_blank"> 
-     <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript%20-%23F7DF1E.svg?logo=typescript&logoColor=black">
-  
-  &emsp;
-     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black">
-  
-</p>
-
-### 👉 Frontend Development
-<p align="left"> 
-  &emsp; 
-    <img alt="HTML" src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?logo=html5&logoColor=white">
-  &emsp;
-    <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white">
-  &emsp;
-    <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=black"/>
-  &emsp;
-    <img alt="Chakra UI" src="https://img.shields.io/badge/Chakra%20UI-%2334D5E0.svg?style=flat&logo=chakra-ui&logoColor=white"/>
-  &emsp;
-    <img alt="React.js" src="https://img.shields.io/badge/React.js-%23282C34.svg?style=flat&logo=react&logoColor=61DAFB"/>
-</p>
-
-
-### 👉 Databases & Cloud Hosting
-<p align="left">
-  &emsp;
-  <a href="https://www.github.com"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=flat&logo=github&logoColor=white">
-  &emsp;
-  <a href="https://vercel.com/"><img alt="Vercel" src="https://img.shields.io/badge/Vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white"></a>
-</p>
-
-  
- ### 👉 Software & Tools
- 
-<p>
-  &emsp;
-   <img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white">
-  &emsp;
-    <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black">
-  &emsp;
-    <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white">
- 
-</p>
 
 <br/>
 
