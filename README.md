@@ -84,11 +84,17 @@ Beyond coding, I'm always looking to collaborate with like-minded individuals an
   <br/>
   <p align="center">
     
-  <img alt="Asim925's Github Stats" src="https://github-readme-stats.vercel.app/api?username=asim925&show_icons=true&count_private=true&theme=algolia" height="192px"/>
+  <img alt="Asim925's Github Stats" src="https://github-readme-stats.vercel.app/api?username=asim925&show_icons=true&count_private=true&theme=radical&hide_border=true" height="192px"/>
 
 <br/>
   &nbsp;
-	<img src="https://github-readme-stats.vercel.app/api/top-langs?username=asim925&show_icons=true&locale=en&layout=compact&theme=algolia" alt="asim925" height="192px"/>
+	<img src="https://github-readme-stats.vercel.app/api/top-langs?username=asim925&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true" alt="asim925" height="192px"/>
+ &nbsp;
+	<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=asim925&theme=radical" alt="asim925" height="192px"/>
+ &nbsp;
+	<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=asim925&theme=radical" alt="asim925" height="192px"/>
+ &nbsp;
+	<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=asim925&theme=radical" alt="asim925" height="192px"/>
 
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
@@ -100,7 +106,7 @@ Beyond coding, I'm always looking to collaborate with like-minded individuals an
   <summary><b>🏆 Achievements and Trophies</b></summary>
   <br/>
 
-  <img src="https://github-profile-trophy.vercel.app/?username=asim925&theme=algolia" alt="Asim925's GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=asim925&theme=radical" alt="Asim925's GitHub Trophies" />
 
 
   <br/>
