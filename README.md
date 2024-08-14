@@ -21,7 +21,7 @@ Beyond coding, I'm always looking to collaborate with like-minded individuals an
 
 ## 🛠️ Technologies
 
-<p><img src='https://skillicons.dev/icons?i=html,css,js,ts,react,cpp,nextjs,vite,nodejs,redux,npm,materialui,tailwind,bootstrap,prisma,vscode,git,github,gitlab,linux,stackoverflow,twitter,instagram,linkedin&theme=dark&perline=15'/></p>
+<p><img src='https://skillicons.dev/icons?i=html,css,js,ts,react,cpp,nextjs,vite,nodejs,redux,npm,materialui,tailwind,bootstrap,prisma,vscode,git,github,gitlab,linux,stackoverflow,twitter,instagram,linkedin&theme=dark&perline=5'/></p>
 
 
 <br/>
