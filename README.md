@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?lines=Pre+Engineering+Student;front-End+Web+Developer;Software%20Engineer%20Intern;Always%20learning%20new%20things&center=true&width=500&height=50">
 </p>
 <hr/>
-<h4 align="center" >🚀 Hey there! I'm Muhammad Asim Nazeer, on a mission to conquer the digital world as a future front-end developer! 💻 With HTML,
+<h3 align="center" >🚀 Hey there! I'm Muhammad Asim Nazeer, on a mission to conquer the digital world as a future front-end developer! 💻 With HTML,
   
   
   CSS, and JavaScript under my belt, I'm ready to craft captivating user experiences and bring designs to life. 🎨 Creating sleek layouts with CSS, I thrive on problem-solving in JS and turning ideas into reality. 🌟 
@@ -14,7 +14,7 @@ I've recently started diving into React basics, adding a powerful tool to my dev
 Beyond coding, I'm always looking to collaborate with like-minded individuals and explore new technologies that push the boundaries of what's possible on the web. Let's embark on this coding journey together! 🌟
 
 #CodeIsLife #FutureFrontEndDev #ReactRookie
-</h4>
+</h3>
 <br>
 <p align="center"><img src="https://komarev.com/ghpvc/?username=asim925&label=Profile%20views&color=0e75b6&style=plastic" alt="views">
  </p>
