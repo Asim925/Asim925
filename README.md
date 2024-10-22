@@ -16,7 +16,7 @@ Beyond coding, I'm always looking to collaborate with like-minded individuals an
 #CodeIsLife #FutureFrontEndDev #ReactRookie
 </h3>
 <br>
-<p align="center"><img src="https://komarev.com/ghpvc/?username=asim925&label=Profile%20views&color=0e75b6&style=plastic" alt="views">
+<p align="center"><img src="https://komarev.com/ghpvc/?username=Asim925&label=Profile%20views&color=0e75b6&style=plastic" alt="views">
  </p>
 
 ## 🛠️ Technologies
@@ -27,7 +27,7 @@ Beyond coding, I'm always looking to collaborate with like-minded individuals an
 <br/>
 
 ## 🔥 Streak Stats
-<p align="center"><img src='https://github-readme-streak-stats.herokuapp.com/?user=asim925&theme=radical' alt="streaks"  /></p>
+<p align="center"><img src='https://github-readme-streak-stats.herokuapp.com/?user=Asim925&theme=radical' alt="streaks"  /></p>
 
 
 
@@ -39,17 +39,17 @@ Beyond coding, I'm always looking to collaborate with like-minded individuals an
   <br/>
   <p align="center">
     
-  <img alt="Asim925's Github Stats" src="https://github-readme-stats.vercel.app/api?username=muneeb-250&show_icons=true&count_private=true&theme=radical&hide_border=true" height="192px"/>
+  <img alt="Asim925's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Asim925&show_icons=true&count_private=true&theme=radical&hide_border=true" height="192px"/>
 
 <br/>
   &nbsp;
-	<img src="https://github-readme-stats.vercel.app/api/top-langs?username=asim925&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true" alt="asim925" height="192px"/>
+	<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Asim925&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true" alt="Asim925" height="192px"/>
  &nbsp;
-	<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=asim925&theme=radical" alt="asim925" height="192px"/>
+	<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Asim925&theme=radical" alt="Asim925" height="192px"/>
  &nbsp;
-	<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=asim925&theme=radical" alt="asim925" height="192px"/>
+	<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Asim925&theme=radical" alt="Asim925" height="192px"/>
  &nbsp;
-	<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=asim925&theme=radical" alt="asim925" height="192px"/>
+	<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Asim925&theme=radical" alt="Asim925" height="192px"/>
 
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
@@ -61,7 +61,7 @@ Beyond coding, I'm always looking to collaborate with like-minded individuals an
   <summary><b>🏆 Achievements and Trophies</b></summary>
   <br/>
 
-  <img src="https://github-profile-trophy.vercel.app/?username=asim925&theme=radical" alt="Asim925's GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Asim925&theme=radical" alt="Asim925's GitHub Trophies" />
 
 
   <br/>
@@ -72,9 +72,9 @@ Beyond coding, I'm always looking to collaborate with like-minded individuals an
 
 ## 🙋‍♀️ Let's Connect
 <p align="center">
-  <a href="https://asim-s-web-odyssey-react-54rovvohi-asim925s-projects.vercel.app/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Website"/></a>
+  <a href="https://asim-s-web-odyssey-react-54rovvohi-Asim925s-projects.vercel.app/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Website"/></a>
 	<a href="mailto:asimnazeer925@gmail.com" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
-	<a href="https://github.com/asim925" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
+	<a href="https://github.com/Asim925" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
 	<a href="https://www.linkedin.com/in/muhammad-asim-nazeer-b30b7a2a4/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
 	<a href="https://www.facebook.com/asim.madni.505/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook"/></a>
 	<a href="https://www.instagram.com/asim__925/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
@@ -84,5 +84,5 @@ Beyond coding, I'm always looking to collaborate with like-minded individuals an
 
 <hr/>
 
-* Credit: [Asim](https://github.com/asim925)
+* Credit: [Asim](https://github.com/Asim925)
 * <p> Last Edited on: Wed, july 24, 2024</p>
