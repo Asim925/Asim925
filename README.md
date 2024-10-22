@@ -39,7 +39,7 @@ Beyond coding, I'm always looking to collaborate with like-minded individuals an
   <br/>
   <p align="center">
     
-  <img alt="Asim925's Github Stats" src="https://github-readme-stats.vercel.app/api?username=asim925&show_icons=true&count_private=true&theme=radical&hide_border=true" height="192px"/>
+  <img alt="Asim925's Github Stats" src="https://github-readme-stats.vercel.app/api?username=muneeb-250&show_icons=true&count_private=true&theme=radical&hide_border=true" height="192px"/>
 
 <br/>
   &nbsp;
